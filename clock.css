@@ -27,7 +27,7 @@ body {
 
 .clock .display {
 	font-size: 60px;
-	color: cyan;
+	color: #3eff8b;
 	letter-spacing: 8px;
 	font-family: 'Orbitron', sans-serif;
 }
