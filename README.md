@@ -3,4 +3,4 @@
 ## Features 
 Vanilla JS and CSS
 
-![clockgif](https://github.com/BibianaBalBar/digitalClock/blob/master/img/3y8vhz.gif)
+![clockgif](https://github.com/BibianaBalBar/digitalClock/blob/master/img/digitalClock.gif)
