@@ -19,12 +19,11 @@ body {
 
 .clock {
 	height: 120px;
-	width: 550px;
+	width: 850px;
 	background: #131419;
 	line-height: 120px;
 	text-align: center;
-	padding: 15px;
-	box-shadow: -3px -3px 7px rbga(255, 255, 255, 0.05), 3px 3px 5px rgba(0, 0, 0, 0.5);
+	padding: 10px;	
 }
 
 .clock .display {
@@ -32,6 +31,10 @@ body {
 	color: #38d39f;
 	letter-spacing: 8px;
 	font-family: 'Orbitron', sans-serif;
+}
+
+.display { 
+	min-width: 650px;
 }
 
 .analog-clock {
